@@ -1,5 +1,4 @@
-# Rick And Morty API
 
-Simple React App using https://rickandmortyapi.com/ and lazy loading all characters of the show.
-
-Live demo: https://stebandev.github.io/RAM-API/
+# RickandMortyAPI
+This is a personal project of a Rick and Morty API
+>>>>>>> e0cc75200427f4f3e596f6da308a0c345767d23b
